@@ -1,0 +1,20 @@
+{
+  "name": "slacker",
+  "version": "1.0.0",
+  "description": "chatting application build with Node JS and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "11.2.0"
+  },
+  "author": "Saurabh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.23.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {}
+}
