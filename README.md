@@ -9,3 +9,6 @@ npm i // install dependency
 ```js
 npm start // start server
 ```
+
+Live server at: 
+https://slackers.herokuapp.com/
