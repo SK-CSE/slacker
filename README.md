@@ -1,7 +1,12 @@
 # slacker
 chatting application build with Node JS and socket.io
 
-Steps to run:
+![Slacker Demo](demo.gif)
+
+Live server at: 
+https://slackers.herokuapp.com/
+
+Steps to run locally:
 
 ```js
 npm i // install dependency
@@ -10,7 +15,3 @@ npm i // install dependency
 npm start // start server
 ```
 
-Live server at: 
-https://slackers.herokuapp.com/
-
-![Slacker Demo](demo.gif)
