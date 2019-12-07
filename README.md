@@ -12,3 +12,5 @@ npm start // start server
 
 Live server at: 
 https://slackers.herokuapp.com/
+
+![Slacker Demo](demo.gif)
